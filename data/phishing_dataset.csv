@@ -1,0 +1,801 @@
+﻿id,subject,sender,email_text,has_link,has_attachment,urgency_flag,label
+1,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+2,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+3,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+4,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+5,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+6,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+7,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+8,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+9,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+10,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+11,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+12,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+13,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+14,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+15,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+16,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+17,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+18,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+19,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+20,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+21,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+22,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+23,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+24,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+25,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+26,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+27,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+28,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+29,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+30,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+31,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+32,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+33,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+34,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+35,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+36,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+37,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+38,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+39,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+40,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+41,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+42,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+43,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+44,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+45,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+46,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+47,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+48,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+49,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+50,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+51,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+52,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+53,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+54,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+55,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+56,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+57,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+58,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+59,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+60,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+61,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+62,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+63,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+64,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+65,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+66,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+67,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+68,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+69,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+70,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+71,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+72,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+73,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+74,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+75,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+76,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+77,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+78,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+79,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+80,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+81,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+82,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+83,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+84,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+85,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+86,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+87,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+88,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+89,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+90,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+91,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+92,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+93,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+94,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+95,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+96,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+97,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+98,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+99,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+100,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+101,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+102,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+103,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+104,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+105,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+106,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+107,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+108,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+109,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+110,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+111,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+112,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+113,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+114,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+115,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+116,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+117,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+118,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+119,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+120,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+121,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+122,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+123,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+124,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+125,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+126,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+127,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+128,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+129,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+130,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+131,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+132,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+133,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+134,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+135,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+136,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+137,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+138,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+139,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+140,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+141,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+142,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+143,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+144,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+145,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+146,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+147,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+148,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+149,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+150,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+151,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+152,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+153,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+154,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+155,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+156,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+157,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+158,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+159,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+160,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+161,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+162,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+163,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+164,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+165,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+166,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+167,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+168,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+169,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+170,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+171,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+172,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+173,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+174,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+175,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+176,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+177,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+178,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+179,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+180,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+181,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+182,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+183,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+184,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+185,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+186,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+187,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+188,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+189,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+190,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+191,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+192,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+193,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+194,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+195,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+196,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+197,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+198,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+199,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+200,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+201,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+202,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+203,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+204,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+205,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+206,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+207,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+208,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+209,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+210,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+211,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+212,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+213,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+214,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+215,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+216,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+217,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+218,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+219,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+220,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+221,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+222,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+223,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+224,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+225,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+226,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+227,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+228,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+229,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+230,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+231,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+232,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+233,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+234,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+235,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+236,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+237,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+238,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+239,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+240,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+241,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+242,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+243,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+244,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+245,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+246,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+247,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+248,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+249,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+250,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+251,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+252,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+253,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+254,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+255,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+256,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+257,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+258,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+259,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+260,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+261,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+262,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+263,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+264,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+265,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+266,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+267,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+268,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+269,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+270,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+271,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+272,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+273,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+274,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+275,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+276,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+277,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+278,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+279,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+280,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+281,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+282,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+283,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+284,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+285,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+286,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+287,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+288,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+289,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+290,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+291,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+292,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+293,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+294,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+295,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+296,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+297,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+298,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+299,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+300,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+301,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+302,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+303,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+304,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+305,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+306,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+307,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+308,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+309,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+310,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+311,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+312,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+313,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+314,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+315,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+316,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+317,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+318,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+319,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+320,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+321,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+322,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+323,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+324,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+325,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+326,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+327,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+328,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+329,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+330,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+331,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+332,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+333,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+334,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+335,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+336,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+337,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+338,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+339,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+340,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+341,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+342,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+343,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+344,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+345,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+346,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+347,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+348,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+349,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+350,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+351,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+352,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+353,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+354,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+355,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+356,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+357,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+358,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+359,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+360,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+361,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+362,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+363,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+364,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+365,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+366,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+367,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+368,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+369,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+370,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+371,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+372,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+373,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+374,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+375,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+376,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+377,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+378,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+379,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+380,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+381,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+382,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+383,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+384,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+385,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+386,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+387,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+388,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+389,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+390,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+391,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+392,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+393,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+394,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+395,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+396,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+397,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+398,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+399,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+400,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+401,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+402,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+403,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+404,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+405,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+406,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+407,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+408,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+409,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+410,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+411,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+412,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+413,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+414,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+415,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+416,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+417,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+418,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+419,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+420,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+421,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+422,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+423,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+424,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+425,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+426,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+427,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+428,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+429,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+430,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+431,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+432,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+433,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+434,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+435,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+436,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+437,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+438,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+439,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+440,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+441,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+442,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+443,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+444,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+445,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+446,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+447,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+448,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+449,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+450,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+451,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+452,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+453,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+454,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+455,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+456,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+457,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+458,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+459,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+460,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+461,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+462,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+463,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+464,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+465,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+466,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+467,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+468,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+469,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+470,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+471,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+472,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+473,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+474,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+475,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+476,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+477,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+478,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+479,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+480,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+481,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+482,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+483,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+484,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+485,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+486,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+487,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+488,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+489,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+490,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+491,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+492,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+493,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+494,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+495,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+496,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+497,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+498,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+499,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+500,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+501,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+502,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+503,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+504,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+505,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+506,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+507,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+508,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+509,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+510,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+511,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+512,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+513,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+514,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+515,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+516,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+517,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+518,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+519,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+520,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+521,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+522,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+523,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+524,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+525,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+526,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+527,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+528,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+529,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+530,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+531,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+532,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+533,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+534,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+535,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+536,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+537,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+538,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+539,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+540,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+541,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+542,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+543,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+544,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+545,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+546,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+547,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+548,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+549,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+550,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+551,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+552,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+553,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+554,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+555,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+556,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+557,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+558,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+559,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+560,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+561,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+562,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+563,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+564,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+565,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+566,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+567,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+568,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+569,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+570,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+571,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+572,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+573,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+574,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+575,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+576,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+577,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+578,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+579,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+580,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+581,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+582,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+583,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+584,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+585,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+586,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+587,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+588,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+589,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+590,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+591,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+592,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+593,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+594,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+595,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+596,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+597,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+598,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+599,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+600,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+601,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+602,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+603,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+604,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+605,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+606,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+607,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+608,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+609,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+610,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+611,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+612,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+613,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+614,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+615,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+616,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+617,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+618,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+619,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+620,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+621,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+622,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+623,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+624,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+625,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+626,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+627,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+628,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+629,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+630,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+631,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+632,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+633,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+634,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+635,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+636,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+637,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+638,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+639,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+640,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+641,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+642,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+643,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+644,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+645,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+646,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+647,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+648,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+649,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+650,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+651,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+652,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+653,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+654,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+655,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+656,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+657,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+658,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+659,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+660,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+661,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+662,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+663,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+664,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+665,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+666,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,0,0,legitimate
+667,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+668,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+669,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+670,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+671,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+672,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+673,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+674,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+675,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+676,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+677,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+678,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+679,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+680,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+681,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+682,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+683,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
+684,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+685,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+686,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+687,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+688,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+689,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+690,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+691,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+692,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+693,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+694,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+695,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+696,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+697,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+698,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+699,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+700,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+701,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+702,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+703,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+704,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+705,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+706,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+707,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+708,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+709,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+710,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+711,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+712,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+713,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+714,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+715,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+716,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+717,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+718,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+719,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+720,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,0,0,legitimate
+721,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+722,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+723,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+724,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+725,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+726,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+727,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+728,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+729,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+730,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+731,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+732,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+733,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+734,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+735,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+736,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+737,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+738,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+739,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+740,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+741,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+742,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+743,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+744,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+745,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+746,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+747,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+748,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+749,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,0,0,legitimate
+750,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+751,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+752,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,0,0,legitimate
+753,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+754,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+755,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+756,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+757,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+758,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+759,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+760,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,0,1,phishing
+761,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,1,0,legitimate
+762,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+763,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+764,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+765,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+766,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+767,Monthly Report,admin@company.com,Please find attached the monthly report.,0,0,0,legitimate
+768,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+769,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+770,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+771,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+772,Monthly Report,admin@company.com,Please find attached the monthly report.,0,1,0,legitimate
+773,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,0,1,0,legitimate
+774,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+775,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+776,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,1,1,0,legitimate
+777,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,1,1,phishing
+778,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,0,0,legitimate
+779,Salary Payment Notification,hr@company.com,Your salary has been credited successfully.,0,1,0,legitimate
+780,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+781,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+782,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+783,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,1,0,0,legitimate
+784,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+785,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+786,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+787,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+788,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+789,Account suspended alert,support@bank-secure.com,Your account has been suspended. Click link to verify now.,1,0,1,phishing
+790,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+791,Team Meeting Reminder,manager@company.com,Meeting scheduled for tomorrow at 10am.,0,1,0,legitimate
+792,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,0,1,phishing
+793,Monthly Report,admin@company.com,Please find attached the monthly report.,1,0,0,legitimate
+794,Password Expiry Notice,it-support@securemail.com,"Dear user, your email password expires today. Reset now.",1,1,1,phishing
+795,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,0,1,phishing
+796,Congratulations Winner!,promo@lottery-ng.com,"You have won 竄ｦ500,000. Click here to claim.",1,1,1,phishing
+797,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+798,BVN Update Required,noreply@fakebank.com,Urgent: Update your BVN immediately to avoid restriction.,1,1,1,phishing
+799,Order Delivered,sales@shop.com,Your order has been delivered. Thank you for shopping.,1,1,0,legitimate
+800,Monthly Report,admin@company.com,Please find attached the monthly report.,1,1,0,legitimate
