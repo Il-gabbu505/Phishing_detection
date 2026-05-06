@@ -21,14 +21,17 @@ def clean_text(text):
 def load_data(path):
     df = pd.read_csv(path)
 
-    df['text'] = df['subject'].astype(str) + " " + \
-                 df['sender'].astype(str) + " " + \
-                 df['email_text'].astype(str)
-
+    df['text'] = df['text'].astype(str)
+    
     df['label'] = df['label'].map({
+        'ham': 0,
+        'spam': 1,
         'legitimate': 0,
-        'phishing': 1
+        'phishing': 1,
+        0: 0,
+        1: 1
     })
+    df = df.dropna(subset=['label'])
 
     df['text'] = df['text'].apply(clean_text)
 

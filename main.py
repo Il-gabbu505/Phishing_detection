@@ -5,7 +5,7 @@ from src.evaluate import evaluate
 import numpy as np
 
 
-df = load_data("data/phishing_dataset.csv")
+df = load_data("data/combined_data.csv")
 
 
 X_train, X_test, y_train, y_test = split_data(df)
